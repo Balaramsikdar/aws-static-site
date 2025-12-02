@@ -22,6 +22,6 @@ http://myawsproject-site.s3-website.ap-south-1.amazonaws.com
 
 ## How to run
 Just open the URL in any browser:
-`http://myawsproject-site.s3-website.ap-south-1.amazonaws.com`
+`https://myawsproject-site.s3-website.ap-south-1.amazonaws.com/`
 
 ---
