@@ -3,7 +3,7 @@
 This project demonstrates hosting a static website on Amazon S3 and distributing it globally using CloudFront (CDN) with HTTPS enabled and automatic HTTP → HTTPS redirection.
 
 ## Live Website
-https://myawsproject-site.s3-website.ap-south-1.amazonaws.com/
+https://myawsproject-site.s3-website.ap-south-1.amazonaws.com
 
 ## AWS Services Used
 - Amazon S3 (Static Website Hosting)
